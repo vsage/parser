@@ -1,0 +1,19 @@
+{
+  "name": "shipments",
+  "version": "1.0.0",
+  "description": "shipments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "standard": "^12.0.1"
+  }
+}
